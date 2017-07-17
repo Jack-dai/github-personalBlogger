@@ -70,7 +70,7 @@ function template(){
 
     var backToTop = Vue.extend({
         template: '<div id="backToTop">' +
-            '<img id="backToTop_img" src="../commonPrototype/images/gotop.gif">' +
+            '<img id="backToTop_img" src="commonPrototype/images/gotop.gif">' +
             '<span id="backToTop_text">' + '返回顶部' + '</span>' +
             '</div>'
     });
